@@ -1,0 +1,9 @@
+Time to run Score.checkWin(otherPlayersScore): 1300 nano seconds
+Time to run Ball.reset(): 10500 nano seconds
+Time to run Ball.wallCollision(): 18700 nano seconds
+Time to run Paddle.up(): 5700 nano seconds
+Time to run Ball.hitPlayer(paddle): 2700 nano secondsTime to run Score.checkWin(otherPlayersScore): 2100 nano seconds
+Time to run Ball.reset(): 8600 nano seconds
+Time to run Ball.wallCollision(): 9600 nano seconds
+Time to run Paddle.up(): 3100 nano seconds
+Time to run Ball.hitPlayer(paddle): 4300 nano seconds
